@@ -1,0 +1,10 @@
+{
+  "name": "@Frame",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@Ops": "file:NPM/Ops/Ops/index.js",
+    "@Collection": "file:NPM/Data/Collection/index.js",
+    "@Portal": "file:NPM/Structure/Portal/index.js",
+  }
+  }
